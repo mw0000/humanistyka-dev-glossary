@@ -1,0 +1,150 @@
+[
+    {
+        "term": "gównowacenie platform",
+        "term2sort": "gównowacenie_platform",
+        "description": "(<em>enshittification</em>) - neologizm zaproponowany przez pisarza <a href='https://en.wikipedia.org/wiki/Cory_Doctorow'>Cory Doctorowa</a> w 2023 roku, opisujące proces obumierania dużych platform internetowych (mediów społecznościowych): <em>Oto jak umierają platformy: najpierw są dobre dla swoich użytkowników; potem ich wykorzystują, by być dobrymi dla swoich klientów biznesowych; na koniec wykorzystują tych klientów, by odzyskać całą wartość dla siebie. A potem umierają.</em>. <br /><br />Pojęcie <em>gównowacenia platform</em> opisuje skrajny model monetyzacji komunikacji internetowej, którego ceną jest obniżenie standardów i wuarygodności platform, spadek zadowolenia użytkowników i elminacja konkurencji rynkowej. W warunkach gry rynkowej tak drastyczny spadek jakości platform internetowych jest możliwy dzięki temu, że zdobyły one przez lata dominującą pozycję, a rezygnacja z nich jest dla użytkowników i klientów wciąż trudna i kosztowna.",
+        "bibliography": [
+            "C. Doctorow, <em>Tiktok's enshittification</em>, https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys, 21.01.2023.",
+            "C. Doctorow, <em>Gównowacenie Tiktoka</em>, tłum. Jan Jęcz, https://jeczjan.substack.com/p/cory-doctorow-gownowacenie-tiktoka, 17.01.2024."
+        ]
+    },
+    {
+        "term": "slop",
+        "term2sort": "slop",
+        "description": "publikowane w mediach społecznościowych, na witrynach internetowych, w ebookach i w wynikach wyszukiwania niechciane i złej jakości treści generowane przez narzędzia AI.",
+        "bibliography": [
+            "B. Hoffman, <em>First Came ‘Spam.’ Now, With A.I., We’ve Got ‘Slop’</em>, New York Times, 11.06.2024, https://www.nytimes.com/2024/06/11/style/ai-search-slop.html.",
+            "J. Koebler, <em>Where Facebook's AI Slop Comes From</em>, 404Media, 06.08.2024, https://www.404media.co/where-facebooks-ai-slop-comes-from/."
+        ]
+    },
+    {
+        "term": "APIkalipsa",
+        "term2sort": "apikalipsa",
+        "description": "(<em>APIcalypse</em>) zjawisko coraz bardziej ograniczonej dostępności danych z interfejsów programistycznych (API) dużych platform internetowych (serwisów społecznościowych). Blokowanie dostępu do danych, radykalne podnoszenie kosztów takiego dostępu oraz zmiany w jego metodach wpływają negatywnie na możliwość prowadzenia badań w tych przestrzeniach.",
+        "bibliography": [
+            "A. Burns, <em>After the ‘APIcalypse’: Social Media Platforms and Their Fight against Critical Scholarly Research</em>, [w:] <em>Disinformation and Data Lockdown on Social Platforms</em>, Cambridge 2021, s. 14-36, https://www.tandfonline.com/doi/abs/10.1080/1369118X.2019.1637447."
+        ]
+    },
+    {
+        "term": "link rot",
+        "term2sort": "link-rot",
+        "description": "zjawisko dezaktualizacji adresów URL z powodu zmiany lub usunięcia treści, na które oryginalnie wskazywały. Przyczyną <em>link rot</em> może być zmiana systemu adresów w wybranej witrynie lub celowe czy przypadkowe usunięcie linkowanej treści. Dezaktualizacja linków to wyzwanie dla komunikacji naukowej (aktualność linków w przypisach), systemu prawnego czy pracy dziennikarskiej.",
+        "bibliography": [
+            "A. Chapekis et al., <em>When Online Content Disappears. 38% of webpages that existed in 2013 are no longer accessible a decade later</em>, Pew Research Center, 17.05.2024, https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/#links-on-government-websites"
+        ]
+    },
+    {
+        "term": "teoria martwego internetu",
+        "term2sort": "teoria-martwego-internetu",
+        "description": "(<em>dead internet theory</em>) teoria spiskowa, według której większość treści i interakcji w internecie jest efektem aktywności botów. Zwolennicy teorii martwego internetu utrzymują, że od 2016 roku internet został zdominowany przez automatycznie generowane treści i algorytmy manipulujące dyskusjami online. Argumentem za prawdziwością tej teorii ma być także obserwowana w ostatnich latach masowa obecność treści generowanych przez AI w mediach społecznościowych i w wynikach wyszukiwania.",
+        "bibliography": [
+            "K. Tiffany, <em>Maybe You Missed It, but the Internet ‘Died’ Five Years Ago</em>, The Atlantic, 31.08.2021, https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/.",
+            "J. Renzella, V. Rozova, <em>The ‘dead internet theory’ makes eerie claims about an AI-run web. The truth is more sinister</em>, The Conversation, 20.05.2024, https://theconversation.com/the-dead-internet-theory-makes-eerie-claims-about-an-ai-run-web-the-truth-is-more-sinister-229609."
+        ]
+    },
+    {
+        "term": "grodzony ogród",
+        "term2sort": "grodzony-ogród",
+        "description": "(<em>walled garden</em>) metafora środowiska lub ekosystemu cyfrowego, w którym dostawca usług czy właściciel platformy kontroluje zasady dostępu do własnych treści i narzędzi i ogranicza interakcję użytkowników z zewnętrznymi usługiami i treściami. Model <em>zamkniętego ogrodu</em> przyjęły media społecznościowe - ujawnia się on m.in. w ograniczaniu dostępu do treści poprzez API czy algorytmicznym osłabianiu widoczności linków publikowanych z zewnętrznych źródeł.",
+        "bibliography": [
+            "B. Propper, <em>Twitter follows Facebook down the walled garden path</em>, The Verge, 09.07.2012, https://www.theverge.com/2012/7/9/3135406/twitter-api-open-closed-facebook-walled-garden."
+        ]
+    },
+    {
+        "term": "inżynieria promptów",
+        "term2sort": "inżynieria-promptów",
+        "description": "(<em>prompt engineering</em>) zestaw koncepcji i metod, których celem jest zwiększenie wydajności pracy z dużymi modelami językowymi. Prompt to wyrażona w języku naturalnym instrukcja dla modelu. ",
+        "bibliography": [
+            "<em>Prompt engineering</em>, OpenAI Platform, https://platform.openai.com/docs/guides/prompt-engineering."
+        ]
+    },
+    {
+        "term": "doomposting",
+        "term2sort": "doomposting",
+        "description": "kojarzona z latami pandemii COVID-19 praktyka ciągłego komentowania wiadomości publikowanych online z jednoczesnym wyolbrzymianiem negatywnych ocen i pesymistycznych scenariuszy.",
+        "bibliography": [
+        ]
+    },
+    {
+        "term": "konwersacyjna AI",
+        "term2sort": "konwersacyjna-AI",
+        "description": "(<em>conversational AI</em>) technologie i narzędzia sztucznej inteligencji, z których korzystać można za pomocą poleceń wydawanych w języku naturalnym. Przykładem konwersacyjnej AI są chatboty i wirtualni agenci, a popularnym wdrożeniem - ChatGPT.",
+        "bibliography": [
+            "<em>What is conversational AI?</em>, IBM, https://www.ibm.com/topics/conversational-ai.",
+            "E. Ruane, A. Birhane, A. Ventresque, <em>Conversational AI: Social and Ethical Considerations</em>, AICS, 2563, 2019, s. 104-115, https://ceur-ws.org/Vol-2563/aics_12.pdf."
+        ]
+    },
+    {
+        "term": "deepfake",
+        "term2sort": "deepfake",
+        "description": "wytwarzane za pomocą narzędzi sztucznej inteligencji realistyczne, ale fałszywe lub zmainpulowane wizerunki osób czy materiały audio i wideo przedstawiające osoby, generowane na podstawie dostępnych, prawdziwych materiałów. Celem publikacji deepfake może być dezinformacja czy dokonywanie wyłudzeń online, chociaż wykorzystuje się je także w twórczości artystycznej czy edukacji.",
+        "bibliography": [
+            "M. Somers, <em>Deepfakes, explained</em>, MIT Management, 21.07.2020, https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained.",
+            "M.M. Waldrop, <em>Synthetic media: The real trouble with deepfakes</em>, Knowable Magazine, 16.03.2020, https://knowablemagazine.org/content/article/technology/2020/synthetic-media-real-trouble-deepfakes."
+        ]
+    },
+    {
+        "term": "sztuczna inteligencja",
+        "term2sort": "sztuczna-inteligencja",
+        "description": "zdolność maszyn do wykazywania ludzkich umiejętności, takich jak rozumowanie, uczenie się, planowanie i kreatywność. Istnieje także koncepcja, określana jako silna sztuczna inteligencja (<em>artificial general intelligence</em>, AGI), w której zakłada się, że możliwe jest wytworzenie takiej postaci sztucznej inteligencji, która będzie odpowiadać wszystkim możliwościom ludzkiego mózgu lub nawet je przewyższać. Niekiedy podkreśla się, że pojęcie <em>sztucznej inteligencji</em> może być mylące, ponieważ utożsamia komputery i programy (przedmioty i konstrukcje logiczne) z osobami oraz wyolbrzymia ich rzeczywiste możliwości, niekiedy w celach marketingowych i sprzedażowych.",
+        "bibliography": [
+            "<em>Sztuczna inteligencja: co to jest i jakie ma zastosowania?</em>, Parlament Europejski, 20.06.2023, https://www.europarl.europa.eu/topics/pl/article/20200827STO85804/sztuczna-inteligencja-co-to-jest-i-jakie-ma-zastosowania",
+            "J. Lanier, <em>There Is No A.I. There are ways of controlling the new technology—but first we have to stop mythologizing it</em>, New Yorker, 20.04.2023, https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+            "V. Kovanovic, <em>Generative AI hype is ending – and now the technology might actually become useful</em>, The Conversation, 18.08.2024, https://theconversation.com/generative-ai-hype-is-ending-and-now-the-technology-might-actually-become-useful-236940"
+        ]
+    },
+    {
+        "term": "doomscrolling",
+        "term2sort": "doomscrolling",
+        "description": "impulsywna konsumpcja negatywnych wiadomości i informacji w mediów internetowych i serwisach społecznościowych. Zjawisko to opisano pierwszy raz w kontekście pandemi COVID-19. Doomscrolling powiązać można z wieloma negatywnymi mechanizmami poznawczymi, np. <em>syndromem wrednego świata</em>. Konsumpcja negatywnych informacji wywołuje wrażenie, że świat jest o wiele bardziej niebezpieczny niż w rzeczywistości.",
+        "bibliography": [
+            "S. Soroka, P. Fournier, L. Nird, <em>Cross-national evidence of a negativity bias in psychophysiological reactions to news</em>, Proceedings of the National Academy of Sciences of the United States of America, 116(38), 2019, s. 18888-18892, https://doi.org/10.1073%2Fpnas.1908369116",
+            "P. Leskin, <em>Staying up late reading scary news? There's a word for that: 'doomscrolling'</em>, Business Insider, 19.04.2020, https://www.businessinsider.com/doomscrolling-explainer-coronavirus-twitter-scary-news-late-night-reading-2020-4?IR=T."
+        ]
+    },
+    {
+        "term": "algorytmiczna radykalizacja",
+        "term2sort": "algorytmiczna-radykalizacja",
+        "description": "(<em>algorithmic radicalization</em>) teoria, według której metody działania algorytmów rekomendujących treści w mediach społecznościowych wspierają polaryzację opinii i radykalizację użytkowników, proponując coraz bardziej skrajne materiały.",
+        "bibliography": [
+            "<em>Mozilla Investigation: YouTube Algorithm Recommends Videos that Violate the Platform’s Very Own Policies</em>, Mozilla, 07.02.2021, https://foundation.mozilla.org/en/blog/mozilla-investigation-youtube-algorithm-recommends-videos-that-violate-the-platforms-very-own-policies/",
+            "M. Ledwich, A. Zaitsev, <em>Algorithmic extremism: Examining YouTube's rabbit hole of radicalization</em>, First Monday, 25, 3, 2020, https://doi.org/10.5210/fm.v25i3.10419."
+        ]
+    },
+    {
+        "term": "bańka filtrująca",
+        "term2sort": "banka-filtrujaca",
+        "description": "stan poznawczej izolacji użytkowników mediów społecznościowych czy Google od treści i przekonań niezgodnych z ich własnymi przekonaniami i preferencjami, wynikający z metod działania algorytmów i systemów rekomendacyjnych. Efektem baniek filtrujących jest ograniczenie perspektywy użytkowników i niekiedy głębokie spersonalizowanie wizji rzeczywistości.",
+        "bibliography": [
+            "E. Bozdag, <em>Bias in algorithmic filtering and personalization</em>, Ethics and Information Technology, 2013, s. 209–227, https://doi.org/10.1007/s10676-013-9321-6.",
+            "A. Bruns, <em>Filter bubble</em>, Internet Policy Review, 8, 4, 2019, https://doi.org/10.14763/2019.4.1426."
+        ]
+    },
+    {
+        "term": "stochastyczna papuga",
+        "term2sort": "stochastyczna-papuga",
+        "description": "popularna metafora opisująca zasadę działania dużych modeli językowych (<em>large language model</em>, LLM). Modele te nie rozumieją generowanych przez siebie słów i zdań, polegając przede wszystkim na pewnych miarach statystycznych ich współwystępowania. Przymiotnik <em>stochastyczny</em> oznacza <em>losowy</em>, <em>przypadkowy</em>.",
+        "bibliography": [
+            "E.M. Bender et al., <em>On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜</em>, <em>FAccT '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency</em>, 2021, s. 610-623, FAccT '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparen.",
+            "G. Musser, <em>Czy stochastyczne papugi rozumieją to, czego się nauczyły?</em>, Projekt Pulsar, 01.10.2023, https://www.projektpulsar.pl/struktura/2228658,1,czy-stochastyczne-papugi-rozumieja-to-czego-sie-nauczyly.read."
+        ]
+    },
+    {
+        "term": "halucynowanie",
+        "term2sort": "halucynowanie",
+        "description": "powtarzalne, utrzymujące się błędy w wynikach działania dużych modeli językowych, powstające w wyniku braków w materiałach źródłowych, na których trenowano te modele, lub/i w wyniku ograniczeń samych modeli. Halucynowane treści prezentowane są w generowanych wynikach jako fakty lub - jeśli generowane są materiały wizualne - jako rzeczywiście istniejące obiekty. Część badaczy kwestionuje sens używania pojęcia halucynowania w kontekście AI, argumentując, że modele jako takie są obojętne wobec tego, czy podawane przez nich odpowiedzi są prawdziwe czy nie.",
+        "bibliography": [
+            "M.T. Hicks, J. Humphries, J. Slater, <em>ChatGPT is bullshit</em>, Ethics and Information Technology, 26, 38, 2024, https://doi.org/10.1007/s10676-024-09775-5.",
+            "A. Belanger, <em>OpenAI faces defamation suit after ChatGPT completely fabricated another lawsuit</em>, Ars Technica, 09.06.2023, https://arstechnica.com/tech-policy/2023/06/openai-sued-for-defamation-after-chatgpt-fabricated-yet-another-lawsuit/."
+        ]
+    },
+    {
+        "term": "wytłumaczalna sztuczna inteligencja",
+        "term2sort": "wytlumaczalna-sztuczna-inteligencja",
+        "description": "(<em>explainable artificial intelligence</em>, XAI) - specyficzne modele lub zestawy procesów i metod, które pozwalają użytkownikom systemów sztucznej inteligencji zrozumieć i krytycznie zanalizować efekty pracy tych systemów. Wytłumaczalność umożliwia ustalenie poziomu pewności, sformatowania (bias), transparentności i odpowiedniości wyników działań narzędzi sztucznej inteligencji i redukuje efekt tzw. czarnej skrzynki (black box). Koncepcja XAI zakłada, że każdą decyzję podjętą podczas procesu budowania modelu i generowania wyników można prześledzić i wyjaśnić.",
+        "bibliography": [
+            "<em>What is explainable AI?</em>, IBM, https://www.ibm.com/topics/explainable-ai.",
+            "A. Massimo et al.,<em>TechDispatch. Explainable artificial intelligence.</em>, European Data Protection Supervisor, 2023, https://op.europa.eu/en/publication-detail/-/publication/59e38fb7-8436-11ee-99ba-01aa75ed71a1."
+        ]
+    }
+]
